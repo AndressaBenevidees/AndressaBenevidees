@@ -2,9 +2,9 @@
 
 👀 I’m interested in ... I'm currently learning the programming language. Studying and acquiring knowledge about the area.
 
-🌱 I’m currently learning ... I'm learning HTML, CSS, JAVASCRIPT and REACT. And I'm improving my English from basic to intermediate.
+👩‍💻 I’m currently learning ... I'm learning HTML, CSS, JAVASCRIPT and REACT. And I'm improving my English from basic to intermediate.
 
-💞️ I’m looking to collaborate on ... My goal is to get into programming as a Front End. Being able to contribute creating applications,
+🚀 I’m looking to collaborate on ... My goal is to get into programming as a Front End. Being able to contribute creating applications,
 websites and in large projects with my acquired knowledge.
 
 
