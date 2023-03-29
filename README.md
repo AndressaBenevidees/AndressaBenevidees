@@ -24,7 +24,7 @@
  
 <div> 
   <a href="https://www.instagram.com/andressabenevidees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.tiktok.com/@andressabeneviides?_t=8aYjDzFrIYP&_r=1" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3ATikTok_logo.svg&psig=AOvVaw2vfSxSHrqTQXFZsbHN5sED&ust=1680186966423000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDNz6yugf4CFQAAAAAdAAAAABAEColor=white" target="_blank"></a> 
+ <a href="https://www.tiktok.com/@andressabeneviides?_t=8aYjDzFrIYP&_r=1" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/1200px-TikTok_logo.svg.png" target="_blank"></a> 
   <a href = "mailto:dessa.benevides@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressacorreiabenevides96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
