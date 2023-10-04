@@ -32,3 +32,5 @@
   ![Snake animation](https://github.com/andressabenevidees/andressabenevidees/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=andressabenevidees&repo=andressabenevidees&theme=react)](https://github.com/andressabenevidees/andressabenevidees)
