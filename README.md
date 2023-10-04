@@ -29,8 +29,8 @@
   <a href = "mailto:dessa.benevides@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andressacorreiabenevides96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/andressabenevidees/andressabenevidees/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AndressaBenevidees/AndressaBenevidees/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=andressabenevidees&repo=andressabenevidees&theme=react)](https://github.com/andressabenevidees/andressabenevidees)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=AndressaBenevidees&repo=AndressaBenevidees&theme=react)](https://github.com/AndressaBenevidees/AndressaBenevidees)
