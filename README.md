@@ -2,7 +2,7 @@
 
 <div>
    <a href="https://github.com/andressabenevidees">
-   ![GitHub Streak](https://streak-stats.demolab.com/?user=andressabenevidees&theme=radical)
+   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=andressabenevidees&theme=radical)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressabenevidees&layout=compact&langs_count=6&theme=radical"/>
 
 
