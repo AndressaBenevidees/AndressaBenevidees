@@ -1,4 +1,4 @@
-## Olá, me chamo Andressa<br>
+## Olá, me chamo Andressa!<br>
 Seja Bem-vindo(a) ao meu perfil ☺️👋
 
 <div>
