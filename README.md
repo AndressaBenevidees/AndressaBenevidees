@@ -43,9 +43,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij
    <a href = "mailto:dessa.benevides@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/andressabenevidees/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@andressabeneviides?_t=8aYjDzFrIYP&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-   <a href="https://discord.andressabenevides" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  
-  
+  <a> <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+   <br>💬 Discord User: andressabenevides
 
 </div>
 
